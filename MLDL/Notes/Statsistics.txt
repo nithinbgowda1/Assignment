@@ -1,0 +1,30 @@
+Statistics involves two parts:
+1. Inferential: We always try to find relation between samples and population. Based on relation we make conclusion. Population is the one on which experiement is performed. Sample is subset of population.
+2. Descriptive: Can be described and summarized using numbers and graphs. We always think of central tedency of data. Central tedency includes mean, median, mode. Some pattern is displayed in the graph.
+
+
+Descriptive involves cateogrical and numerical data in dataset.
+Categorical defines group of data. Data which can be categorized. 
+Numerical can be present in terms of numbers.
+
+Categorical and Numerical can be divided as:
+	1. Continuous: Data is continuous
+	2. Discrete: Data are discrete. Data is described absoulety completly.	
+
+For eg: Student scoring if said in terms of Grade then cateogrical, when score is termend in terms of marks then numerical data.
+
+Level of measurements:
+Able to divide data in two parts :
+	1. Qualitative: Quallty of data is involved. Can be divided as 
+			1. Nominal: Values serves only as a label. For eg: Considering male as 1 and female as 0, we are just trying to give representation.Just a name there is no order
+			2. Ordinal: There is some kind of order
+	2. Quantitative: Quantity of data is involved. Can be divided as
+			1. Interval: Data defined in term of interval
+			2. Ratio: Data defined in term of ratio
+
+Central tedency: Involves
+	1. Mean:
+	2. Median:
+	3. Mode: 
+	
+ 
